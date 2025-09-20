@@ -1,0 +1,9 @@
+[enu default]
+
+QUITMSG1 = "Press Y to signal \nfiring squad.";
+QUITMSG2 = "Press Y to activate \nguillotine.";
+QUITMSG3 = "Press Y to release \nthe cyanide gas.";
+QUITMSG4 = "Press Y to open \ntrap door.";
+QUITMSG5 = "Press Y to drive your \ncar off the cliff.";
+QUITMSG6 = "Press Y to pull \nyour plug.";
+QUITMSG7 = "Press Y to activate \nelectric chair.";

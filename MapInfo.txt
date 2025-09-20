@@ -1,0 +1,5 @@
+gameinfo
+{
+	quitsound = "silence" // Sound effects handled by message box code
+	messageboxclass = "ROTTMessageBox"
+}

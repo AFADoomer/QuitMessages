@@ -1,4 +1,6 @@
-SILENCE		silence
+Silence		dsempty
+$rumble Silence NONE
+
 QUITSND1	quitsnd1
 QUITSND2	quitsnd2
 QUITSND3	quitsnd3
